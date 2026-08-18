@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>👋 Hi i'am Ravi</h1>
+👋 i'am Ravi.</h1>
 <!--
 **RavideOliveira/RavideOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
