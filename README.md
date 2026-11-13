@@ -12,4 +12,4 @@
 <img width="50" height="50" alt="css-img" src="https://github.com/user-attachments/assets/5c30497b-efe0-4340-9f50-a4ec7529750e" />
 </div>
 <hr>
-<img width="450" height="270" alt="image" src="https://github.com/user-attachments/assets/35a619fc-b838-4266-85e3-9f0998c7487e" />
+<img width="400" height="220" alt="image" src="https://github.com/user-attachments/assets/35a619fc-b838-4266-85e3-9f0998c7487e" />
